@@ -78,3 +78,11 @@ A fully customizable navigation bar for iOS.
     }
     
 ```
+
+
+### Swift Package Manager
+
+To install CustomNavigationBar using [Swift Package Manager](https://github.com/apple/swift-package-manager)  you can follow the [tutorial published by Apple](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app) using the URL for the CustomNavigationBar repo with the current version:
+
+1. In Xcode, select “File” → “Swift Packages” → “Add Package Dependency”
+1. Enter https://github.com/yucelokan/CustomNavigationBar.git
